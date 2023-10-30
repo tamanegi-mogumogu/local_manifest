@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="tqmane" fetch="https://github.com/tamanegi-mogumogu"/>
+  
+<!--Trees-->
+  <project path="device/samsung/starqltechn"
+           name="android_device_samsung_starqltechn"
+           remote="tqmane"
+           revision="elixir-14-wip" />
+
+</manifest>
