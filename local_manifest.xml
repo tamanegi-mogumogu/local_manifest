@@ -6,6 +6,26 @@
   <project path="device/samsung/starqltechn"
            name="android_device_samsung_starqltechn"
            remote="tqmane"
-           revision="elixir-14-wip" />
+           revision="thirteen" />
+
+  <project path="device/samsung/sdm845-common"
+           name="android_device_samsung_sdm845-common_1"
+           remote="tqmane"
+           revision="thirteen-test" />
+
+  <project path="vendor/samsung/starqltechn"
+           name="vendor_samsung_starqltechn"
+           remote="tqmane"
+           revision="thirteen" />
+
+  <project path="vendor/samsung/sdm845-common"
+           name="android_vendor_samsung_sdm845-common"
+           remote="tqmane"
+           revision="lineage-20.0_test" />
+
+  <project path="kernel/samsung/sdm845"
+           name="android_kernel_samsung_sdm845"
+           remote="tqmane"
+           revision="lineage-20.0_test" />
 
 </manifest>
